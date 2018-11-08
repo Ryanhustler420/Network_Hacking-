@@ -49,3 +49,44 @@ but that doesn't mean people don't know you.
 > on of the most Pseudonymitest of modern time is [Satoshi Nakamoto](https://en.wikipedia.org/wiki/Satoshi_Nakamoto) the **creator** of Bitcoin. - on wikipedia
 
 > read about [Right to privacy](https://en.wikipedia.org/wiki/Right_to_privacy) to know more.
+
+
+# Security Vulnerabilities Threats and Adversaries (Bookmarked)
+
+  - Now though you know the privacy Anonymity and Pseudonymity and that's bring us to **SECURITY**
+
+> ASSETS 
+
+  - The things we really care about and for protecting our assets we use various securities control.
+meaning security is degree to which our assets are resistance to **THREATS** from our **ADVERSARIES**
+and we select security control based on the type of threads and the adversary that we face
+threads are bad things that can happen like a malware attack or mass survalence etc.. all are given 👇 in image
+and these threats are enable by our adversaries which might be hackers cyber criminals etc etc.. 
+
+and you can see those red tringle on the image those are vulnerability bugs and witnesses in your security controls a threats will try to expose vulnerability in your security to impact your assest.
+
+**for example**
+
+  - Malware infect your computer through the vulnerability of being on **PATCHED**
+
+> here is the formule
+
+``` Risk = (Vulnerabilities X Threats X Consequences) ``` 
+
+  - will be a way to represent in a formula that likelihood of threats exploiting vulnerability in your security controls and Consequences of that is know as **RISK**. Risk to your assest and risk to you. and the threats and **ADVERSARIES** you face these are called your threats landscape. your threats will be individual to you so as you can clearly see security does not absolutely not exist in isolation so your security controls will selected on the base of 
+to mitigate the threats and adversaries and the Consequences of that realisation 
+
+**for exapmle** 
+
+  - you might select **TOR** as a security control to help mitigate threat or mass survalance from **Oppressive Regimes**
+or you might choose **TOR** because the Consequences are high in terms of your identity and once your identity is know your Consequences will be realised so you most implement security control to protect your assets to ensure privacy and anonymity and pseudonymity if you require it.
+
+    - Security is a technology
+    - Security is an action
+    - Security is a process
+
+![Landscape-Diagram](https://github.com/Ryanhustler420/Network_Hacking-/blob/master/assets/The-Cyber-Security-Landscape-Diagram.jpg)
+
+
+
+
