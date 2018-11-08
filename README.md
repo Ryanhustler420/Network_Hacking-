@@ -88,5 +88,47 @@ or you might choose **TOR** because the Consequences are high in terms of your i
 ![Landscape-Diagram](https://github.com/Ryanhustler420/Network_Hacking-/blob/master/assets/The-Cyber-Security-Landscape-Diagram.jpg)
 
 
+# Threat Modelling and Risk Assessments
+
+
+before moving forward lets clear these Core points
+
+  - **Vulnerability:** In computer security, a vulnerability is a weakness which can be exploited by a Threat Actor, such as an attacker, to perform unauthorized actions within a computer system. To exploit a vulnerability, an attacker must have at least one applicable tool or technique that can connect to a system weakness..
+
+  - **Threat:** A threat, in the context of computer security, refers to anything that has the potential to cause serious harm to a computer system. A threat is something that may or may not happen, but has the potential to cause serious damage. Threats can lead to attacks on computer systems, networks and more.
+
+  - **Consequences** Consequences. To every action identified as a crime come the penalties or consequences stipulated by law. The penalties are stipulated according to the degree of damage deemed resultant from the crime. The hacking is punished under the statutes for computer criminal acts.
+
+  - **Adversaries** [read here](http://www.centurylink.com/business/enterprise/blog/thinkgig/four-types-cybersecurity-adversaries-defend/)
+
+**First thing First** You can not have a 100% Security Just like you never have 0% Risk you can never completely protect your assets
+or maintain perfect privacy and have total anon and have you seen anyone who has 100% security than they simply lying to you.
+
+![Risk Assessments](https://github.com/Ryanhustler420/Network_Hacking-/blob/master/assets/Threat%20Modeling%20and%20Risk%20Assessments.png)
+
+every where is risk and the problem is engaging with network is risk engaging with people has a risk.
+
+we take these risk with great Opportunity and benefits so the Internet brings. in order to exploit the Opportunity of using the internet we have  to accept a level of risk. and you need to personally decide what is your tolerance to risk based on your circumstances the lower tolerance risk you have
+i.e. if the consequences of loss of security privacy or anonymity is high than the more security control you need. the more advance and optimal
+restricted to usability security controls you will want. the higher tolerance risk you have i.e. the consequences might be low the less security control you need. so the security is balance between usability and security between risk and opportunity and security often gets into the way of ease of use
+which is why we most choose Security controls that fits our purpose and inline with our appetite risk.
+
+you should take always risk based approach to your securities. we know we can't have 100% security. to apply the right level security
+to mitigate the risk to be overburden point where system is unusable. the only you can choose how big burdensome your security needs to be protect your assets. in order to take risk based approach to security than you should do basic threat modelling and risk Assessments when selecting your security controls so, Lets go Through so Assessments process now.
+
+> RISK = (vulnerabilities X Threat X Consequences)
+
+1.  Assets - you should have list of your assets that you want to protect
+2.  Vulnerabilities
+3.  Threats - you must have some understanding of what Threats are.
+4.  Adversaries - you must have some understanding of what Adversaries are.
+5.  Consequences - determining the consequences of assets being compromise of threats being realise. when it comes to your assets consider lost or stolen destroyed or encrypted so you cant use them placed on the internet puts in the hands of your adversaries, criminals hackers how could impact your reputation , your privacy your anonymity will be loss. focus on **consequences** if you threat and adversaries are less tangible.
+
+> security controls  we will see later
+
+1.  Select
+2.  Implement
+3.  Assess
+4.  Monitor
 
 
