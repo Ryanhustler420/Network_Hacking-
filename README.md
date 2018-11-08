@@ -165,3 +165,23 @@ you cannot Prevent you detect and what you cannot detect you Recover.
 
 > all you need is right technology and the right place
 
+# The Zero Trust Model
+
+Who and what you trust is the key for your security, privacy and anonymity. the less you trust the lower your risk. you want to minimize the number of things that you trust including yourself. This is the **ZERO TRUST MODEL**. To protect your Assets we have to make choice's about trust we have to select software, o/s, encryptions, storage, ISP, Password Manager what download you wanna download and even people that we have to trust to protect our Assets Evaluate Instead of trusting. every thing will represent a level of risk some acceptable and some of 'em not. we can mitigate the risk by distributing the trust this is the zero trust Model. Its should be applied everything we go through in this Tutorial
+
+Trust nothing Trust No one Just evaluate and distribute the trust. well what is that really means!
+
+
+**for Example**
+
+  - say you want to save file online. you want to sync your file online than first you need to select providers that offer the syncing service
+    - Dropbox - is a popular choice for most of people. still you should not trust that they will not get hacked. you should not trust that they wont view your file. you should not trust that they will lose or change your file. so you have to make a risk base choice based on that zero trust model
+  - you should ask yourself how important is it that the file remain private without being changed and will always available. you decide that it is important so you choose that backup of the file as well in a separate location and encrypt the file with use a service to encrypt the files client side with a decryption key the only you have this way you have distributed the trust to the alternative backup and to yourself by encryptions
+
+  - Crypton & ENCRYPTR are called Zero Knowledge System. Zero knowledge meaning when provider has zero knowledge about what it is that they are hosting for there client
+
+  [Let us see an example] -> applications can have secrete backdoors you may choose to run an application in a isolated virtual machine to stop it being able to communicated out. application can have malwares again it may sandbox that application instead of trusting in your evaluating you mitigating the risk by distributing the trust.
+
+
+
+  [here one](http://www.marketwired.com/press-release/spideroak-unveils-crypton-first-ever-zero-knowledge-application-framework-1760687.htm)
