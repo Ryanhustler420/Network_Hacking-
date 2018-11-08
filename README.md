@@ -132,3 +132,15 @@ to mitigate the risk to be overburden point where system is unusable. the only y
 4.  Monitor
 
 
+# Security vs Privacy vs Anonymity  - Can we have it all
+
+Can some time being contradiction to each other for Example:-
+
+a feature in your browser might check every site that you visit to see if its a know malware distribution site
+this feature helps securities because it stops you going to those site which content malware. but can potentially interfere
+your privacy and Anonymity as the site malware distribution site is maintaining contact with your browser and could be constaintely updating on what sites that you are vising and when.
+
+the amount of privacy and Anonymity you require is directly prepositional to the amount of security you need.
+the more privacy and Anonymity the more security controls
+
+![ImageQuote](https://github.com/Ryanhustler420/Network_Hacking-/blob/master/assets/Security%20vs%20Privacy%20vs%20Anonymity%20%20-%20Can%20we%20have%20it%20all.png)
