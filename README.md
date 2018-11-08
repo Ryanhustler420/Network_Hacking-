@@ -144,3 +144,24 @@ the amount of privacy and Anonymity you require is directly prepositional to the
 the more privacy and Anonymity the more security controls
 
 ![ImageQuote](https://github.com/Ryanhustler420/Network_Hacking-/blob/master/assets/Security%20vs%20Privacy%20vs%20Anonymity%20%20-%20Can%20we%20have%20it%20all.png)
+
+# Defence In Depth
+
+there is a principle in security called **Defence In Depth**.
+The Idea is to provide layers of Defences so, one defence fails the other defence
+protects you in its place.
+so there are three main types of defence that you can think of
+
+![Defence in Depth](https://github.com/Ryanhustler420/Network_Hacking-/blob/master/assets/Defence%20in%20Depth.png)
+
+1.  Prevent - this for example can be if you encrypt your files and make sure the key or password isn't available so the **Prevent Defence**
+stop people compromising those files and accessing critical information.
+
+2.  Detection  - Detection could be cannery which is planting a divert trap  to the hacker or malware triggers this cannery or trap so you notified that something is the mess
+
+3.  Recovery  - Recovery is like backup or having a ability to Recovery lost file or lost account the principle is what
+you cannot Prevent you detect and what you cannot detect you Recover.
+
+
+> all you need is right technology and the right place
+
