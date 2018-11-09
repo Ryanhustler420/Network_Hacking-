@@ -284,3 +284,95 @@ By now we are well aware that the hackers are the ethical professionals while th
 We can thus conclude to say that the Hackers break into the security systems for the sole purpose of checking the holes in the system and works on rectifying these while as the Cracker breaks into the security system for criminal and illegal reasons or for personal gains. The white hats perform the security tests according to a legal contract. The black hats do not follow any such agreement. They do so to violate the security of the systems. While a cracker keeps the knowledge of any vulnerability n a security system to himself and uses it to his own advantage, the hacker does so in order to aware the concerned company or an individual about the possible breaking that could lead them to considerable losses at the hands of the Crackers. So basically we can go on to say that the ethical hackers use and apply their knowledge and experience in order to help maintain the security of a computer system and a network.
 
 While the crackers use their knowledge, which generally is not much advanced, to break the law? The two terms are sometimes used interchangeably but we have to know this that the difference between the two is quite big and considerable. We might even say that this is respectful to be a hacker and insulting to be a cracker. Hacking is generally potentially more harmful than cracking because the hackers possess in depth knowledge of the programs and codes etc. However, since the hackers work solely for developing the security systems they really do not possess any threats to the security systems. The crackers however, possess serious threats to the internet security. And this is a growing menace in the current times. Therefore it is significant to take proper legal action against the prosecutors and thus reduce the threats. The two terms are significantly similar but the difference lies in the manner each tends to work. That is what makes the two so different. Therefore we must not confuse these two terms and remember to do hacking legally and ethically and never ever think of going towards cracking.
+
+## Malware, Virus, Rootkits, Spyware, Worm, Trojans and RAT (remote access Trojan)
+
+![malware](https://cdn.guidingtech.com/media/assets/WordPress-Import/2011/12/virus.jpg)
+
+Whenever your computer starts acting weird and makes it difficult for you to work on, the first thing that comes to you mind is whether a virus has affected your computer.
+
+Some of those times, your fears might turn out to be true. Hence it helps to know about these enemies of your computer and get a basic understanding of how they work. That could help you deal with them in a faster & better way.
+
+**Malware** is any malicious program or software that’s designed to exploit a computer user. Malware is basically an umbrella term covering computer viruses, worms, Trojan, spyware, rootkit etc. Some of ‘em attack the computer programs and files while others attack users confidential data. Let’s have a detailed look at their mode of operation.
+
+**WHAT IS A VIRUS**
+Just as a biological virus replicates itself in a human cell, a computer virus replicates itself  in computer memory when initiated by the user. Not only they replicate themselves but may also contain some malicious codes which can affect your files, your operating system or even your master boot records thereby making your computer start slow or not boot at all.
+
+There are different types of viruses, some affect the system adversely and leave it completely unusable while some are just written to annoy the user. Disabling task manager or desktop wallpaper is one of the most common ways that virus creators employ to irritate users.
+
+As a virus always needs a human action to initiate itself, in a computer most of them attach themselves to an executable .exe file because it knows eventually the user will double click on it to run it and that’s all it needs to infect the computer. Yes, unfortunately, most viruses are inadvertently initiated by the computer users themselves and hence it is important that when you install and run programs, you know beforehand that you got them from a trusted source.
+
+**This is a worm**
+
+![Worm](https://cdn.guidingtech.com/media/assets/WordPress-Import/2011/12/worm.png)
+
+Practically a worm is an evolved form of a virus. Like virus, worms too replicate and spread themselves but it happens on a bit larger scale. Also, unlike virus, a worm does not need a human action to replicate and spread and that’s what makes it more dangerous.
+
+A worm always seeks for network loopholes to replicate from computer to computer and thus most common way of intrusion are emails and IM attachments.  As the infection is network-based, a good firewall along with antivirus is necessary to control worm attack. Also, this means that blindly downloading email attachments or clicking the links friends share with you in a chat window isn’t recommended. Double-check before you do that.
+
+**WHAT IS A TROJAN HORSE**
+
+![horse](https://cdn.guidingtech.com/media/assets/WordPress-Import/2011/12/Trojan.png)
+
+Trojan horse or simply Trojan is a bit interesting. Trojan horse is a program that appears useful by pretending to do certain things in foreground, but in reality they are working silently in background with the only objective of harming your computer and/or stealing valuable information.
+
+Let me explain this metaphorically.
+
+Suppose you are the CEO of a company and there’s an employee in your firm you think is a valuable asset because of some initial success he gave your company. In reality the employee is working for your competitor and destroying your company from within. Now these kinds of employees can be considered as a Trojan horses if you consider the company as your computer.
+
+Most common way to invite a Trojan horse to your computer is downloading malicious software like keys, cracks, free illegal music, wares etc from an unknown source. Thus the best way to stay away from Trojans is by making sure you install software from trusted sources.
+
+**WHAT IS A SPYWARE**
+
+![spyware](https://cdn.guidingtech.com/media/assets/WordPress-Import/2011/12/spy.png)
+
+Spywares are also malicious computer programs that can be installed on computers but unlike any of the above they don’t harm your computer in any way. Instead, they attack you!
+
+Once installed on a system they run in background and keep on collecting user’s personal data. These data can include your credit card numbers, passwords, important files and many other personal stuff.
+
+Spywares can track your keystrokes, scan and read your computer files, snoop IM chats and emails and God knows what else. Therefore again it’s always advisable to download and install software from trusted sources.
+
+**WHAT IS A ROOTKIT**
+Rootkits are computer programs that are designed by attackers to gain root or administrative access to your computer. Once an attacker gains admin privilege, it becomes a cakewalk for him to exploit your system.
+
+We have already discussed rootkit in detail previously and you can have a look at it for in-depth knowledge.
+
+**What is a RAT (remote access Trojan)**
+
+A remote access Trojan (RAT) is a malware program that includes a back door for administrative control over the target computer. RATs are usually downloaded invisibly with a user-requested program -- such as a game -- or sent as an email attachment. Once the host system is compromised, the intruder may use it to distribute RATs to other vulnerable computers and establish a botnet.
+
+
+Because a RAT enables administrative control, it makes it possible for the intruder to do just about anything on the targeted computer, including:
+
+- Monitoring user behavior through keyloggers or other spyware.
+- Accessing confidential information, such as credit card and social security numbers.
+- Activating a system's webcam and recording video.
+- Taking screenshots.
+- Distributing viruses and other malware.
+- Formatting drives.
+- Deleting, downloading or altering files and file systems.
+
+The Back Orifice rootkit is one of the best known examples of a RAT. A hacker group known as the Cult of the Dead Cow created Back Orifice to expose the security deficiencies of Microsoft's Windows operating systems.
+
+RATs can be difficult to detect because they usually don't show up in lists of running programs or tasks. The actions they perform can be similar to those of legitimate programs. Furthermore, an intruder will often manage the level of resource use so that a drop in performance doesn't alert the user that something's amiss.
+
+To protect your system from RATs, follow the same procedures you use to prevent other malware infections: Keep antivirus software up to date and refrain from downloading programs or opening attachments that aren't from a trusted source. At the administrative level, it's always a good idea to block unused ports, turn off unused services and monitor outgoing traffic.
+
+RAT also stands for remote administration tool.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
