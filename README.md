@@ -4,7 +4,7 @@
   - **Definition:** Hacking is an attempt to exploit a computer system or a private network inside a computer. Simply put, it is the unauthorised access to or control over computer network security systems for some illicit purpose.
 
 
-# Know yourself - The Threat and Vulnerable Landscape
+## Know yourself - The Threat and Vulnerable Landscape
 
 > Goal
 
@@ -185,3 +185,27 @@ Trust nothing Trust No one Just evaluate and distribute the trust. well what is 
 
 
   [here one](http://www.marketwired.com/press-release/spideroak-unveils-crypton-first-ever-zero-knowledge-application-framework-1760687.htm)
+
+# If There’s Value, They Will Hack It
+
+Have you ever wondered what a hacked computer, email address, or other online account is even worth? Sure, it seems pretty obvious that there’d be some serious value in a compromised online bank or PayPal account, but what about Facebook or Skype or any of the other myriad of online services?
+
+![Hack](https://media.kasperskydaily.com/wp-content/uploads/sites/36/2013/06/05095329/value_title.jpg)
+
+There are at least two ways in which we can enumerate this value. One of those ways is financial: what is the market value of a hacked account? However, these accounts are also valuable for their worth to social engineers. In other words, how can they be used in phishing attacks designed to compromise the other things that criminals compromise?
+
+Lucky for us, Brian Krebs, a former Washington Post reporter and one of the most well-respected journalists in the industry, published a chart illustrating the value of hacked machines a few years back on his own news site, **Krebs on Security**. He has revisited the idea a few times including an evaluation of the values of hacked email and other accounts. Following Krebs’ lead, **the SANS Institute has elaborated on this idea in a whole slew of languages**. The SANS chart is below:
+
+![chart](https://media.kasperskydaily.com/wp-content/uploads/sites/36/2013/06/05095326/STH-Poster-YouAreATarget-LowResolution.jpg)
+
+Let’s start with the direct financial value of various accounts estimated by Krebs’s based on his tendency to trawl through the sketchy black-market forums in which they are sold. He claims that a prominent seller of this stuff charges $8 for iTunes accounts; $6 for Fedex.com, Continental.com, and United.com accounts; $5 for Groupon accounts; $4 for Godaddy accounts; and a measly $2.50 for active Facebook and Twitter accounts. I’m sure these prices jump a bit if the accounts belong to valuable targets, like diplomats, prominent business people, celebrities, defense contractors, and others. In a separate piece based on a different marketplace, Krebs found Dell, Overstock, Walmart, Tesco, BestBuy, Target and other online retail accounts worth between $1 and $3.
+
+The funny thing about hacked PayPal and online bank accounts is that their value isn’t as straight forward as you might think. Let’s say you’ve got $2000 in a bank account or on a credit card or available on PayPal. The value of that account would be two grand, right? Not really. The criminals that compromise these accounts do it on a wholesale level. They usually aren’t compromising and emptying the accounts themselves. To do so is simply too labor intensive and too risky. Instead, they hack the account, and sell access to it on these same underground, black-market forums.
+
+> A criminal with access to your primary email account can likely reset the passwords to and take control of every other account you own.
+
+Another popular way to make money on a compromised financial account is to use money mules. In these cases your account is pretty much worth what’s in it, but it’s kind of a different animal altogether. Very briefly, money mule operators put out advertisements offering easy money to anyone that will remove money from a bank account and wire it off to wherever the criminal is located. The crooks running these scams aren’t advertising for money mules, but the people that accept these offers are, without their knowledge, acting as money mules. Oftentimes they are not paid after withdrawing and moving the money.
+
+Email and financial accounts are harder to evaluate because much of their value depends upon the contents of the accounts and the identity of their rightful owner, which makes this a pretty good place to transition into the non-financial value of hacked accounts. Email accounts are often the hub through which every other account is controlled. When you forget a password, you reset it through your email account. My passwords are often so unique and so good that I have no option but to reset them through my email because I’ll never remember them otherwise.
+
+A hacked email account is also a danger to every single one of your contacts. The same logic can be applied to your various social media accounts. These people you connect with trust you. If a malicious link comes in a phishing email from a known email account, your contacts or friends or connections will probably open it, and that is on you. You’ll have to live with the fact that your lazy security practices sunk someone else’s ship and I hope you lose sleep over it! Just kidding, I hope you practice strong security and never run into these problems.
