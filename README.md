@@ -542,3 +542,7 @@ Moreover, the following tips can help improve your vigilance in relation to soci
 - **Keep your antivirus/antimalware software updated** – Make sure automatic updates are engaged, or make it a habit to download the latest signatures first thing each day. Periodically check to make sure that the updates have been applied, and scan your system for possible infections.
 
 ## [scams cons and grifters a history of social engineering fraud](https://www.kochiesbusinessbuilders.com.au/scams-cons-and-grifters-a-history-of-social-engineering-fraud/)
+
+## Darknets Dark Markets and Exploit kits
+
+- [Read here](https://en.wikipedia.org/wiki/Darknet_market)
