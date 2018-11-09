@@ -360,19 +360,54 @@ To protect your system from RATs, follow the same procedures you use to prevent 
 
 RAT also stands for remote administration tool.
 
+## Phishing, Pharming, Vishing, and Smishing
 
+**Phishing**
+On the Internet, "phishing" refers to criminal activity that attempts to fraudulently obtain sensitive information. There are several ways a fraudster can try to obtain sensitive information such as your social security number, driver's license, credit card information, or bank account information, often luring you with a sense of urgency. Sometimes a fraudster will first send you a benign email (think of this as the bait) to lure you into a conversation and then follow that up with a phishing email. At other times, the fraudster will just send one phishing email that will direct you to a website requesting you to enter your personal information such as User ID and Password.
 
+**Recognizing a fake**
 
+**Here are some questions to ask if you think you have received a phishing email**.  You can use these same questions if you receive a vishing or smishing message: 
 
+![view](https://security.intuit.com/images/Fake-email-example.png)
 
+1.  Do you know the sender of the email?  If yes, continue to be cautious before clicking a link. If no, do not click any links.
+2.  Have you checked the link? Mouse over the link and check the URL. Does it look legitimate or does it look like it will take you to a different website?
+3.  Does the email contain grammatical errors? If so, be suspicious.
+4.  Are there any attachments in the email? If so, do not click on the attachment before contacting the sender to verify its contents.
+5.  Does the email request personal information?  If so, do not reply.
+6.  If you have a relationship with the company, are they addressing you by name?
 
+**How to validate the email you received came from Intuit and what to do if you think you have received a phishing email:**
 
+To protect your privacy, please do not click any of the links or reply to the malicious email.  When you receive a suspicious email claiming to be from Intuit, please follow these steps:
 
+1.  Sign in to your Intuit account.
+2.  Access your account's security settings.
+3.  Find "Account Activity" and select View.  A history of events involving your account will display.
+4.  If you find an event marked with an email icon that matches the content, date, and time of the email you are verifying, you'll know     the email is from Intuit.  you may also see a ref code that can be matched to the email.
+5.  If you don't find a match, forward the email immediately to spoof@intuit.com. We will look into each reported instance.
 
+You can also go to Security Alerts where all known phishing emails targeting the Intuit brand are posted. If you find a similar email, please delete the email you received as well as remove it from your trash.  There are no further steps necessary; however, if you do not find a similar email, please forward the email to spoof@intuit.com for further investigation. 
 
+**Pharming**
+Pharming is another scam where a fraudster installs malicious code on a personal computer or server. This code then redirects any clicks you make on a website to another fraudulent Website without your consent or knowledge. To avoid pharming, follow the basic computer safety guidelines in Protect Your Computer. Be especially careful when entering financial information on a website. Look for the ‘s’ in https and the key or lock symbol at the bottom of the browser. If the website looks different than when you last visited, be suspicious and don’t click unless you are absolutely certain the site is secure.
 
+**Vishing**
 
+Unfortunately, phishing emails are not the only way people can try to fool you into providing personal information in an effort to steal your identity or commit fraud. Fraudsters also use the phone to solicit your personal information. This telephone version of phishing is sometimes called vishing. Vishing relies on “social engineering” techniques to trick you into providing information that others can use to access and use your important accounts. People can also use this information to assume your identity and open new accounts. 
 
+To avoid being fooled by a vishing attempt:
 
+- If you receive an email or phone call requesting you call them and you suspect it might be a fraudulent request, look up the organization’s customer service number and call that number rather than the number provided in the solicitation email or phone call.
 
+- Forward the solicitation email to the customer service or security email address of the organization, asking whether the email is legitimate.
 
+Though vishing and its relative, phishing, are troublesome crimes and sometimes hard to identify, here are some tips from the FTC to protect your identity. 
+
+**Smishing**
+Just like phishing, smishing uses cell phone text messages to lure consumers in. Often the text will contain an URL or phone number. The phone number often has an automated voice response system. And again, just like phishing, the smishing message usually asks for your immediate attention.
+
+In many cases, the smishing message will come from a "5000" number instead of displaying an actual phone number. This usually indicates the text message was sent via email to the cell phone, and not sent from another cell phone.
+
+Do not respond to smishing messages.
