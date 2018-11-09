@@ -212,6 +212,8 @@ A hacked email account is also a danger to every single one of your contacts. Th
 
 ## Top 10 Internet Safety Rules & What Not to Do Online
 
+![chartWhatExpertsSaysAndNonExpertsSays](https://github.com/Ryanhustler420/Network_Hacking-/blob/master/assets/Top%203%20Rules.png)
+
 1. Keep Personal Information Professional and Limited
 Potential employers or customers don't need to know your personal relationship status or your home address. They do need to know about your expertise and professional background, and how to get in touch with you. You wouldn't hand purely personal information out to strangers individually—don't hand it out to millions of people online.
 
