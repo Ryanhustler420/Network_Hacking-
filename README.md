@@ -245,3 +245,8 @@ People you meet online are not always who they claim to be. Indeed, they may not
 Internet security software cannot protect against every threat, but it will detect and remove most malware—though you should make sure it's to date. Be sure to stay current with your operating system's updates and updates to applications you use. They provide a vital layer of security.
 
 Keep these 10 basic Internet safety rules in mind and you'll avoid many of the nasty surprises that lurk online for the careless.
+
+# Security Bugs and Vulnerabilities
+
+Security bug. A security bug or security defect is a software bug that can be exploited to gain unauthorized access or privileges on a computer system. Security bugs introduce security vulnerabilities by compromising one or more of: Authentication of users and other entities. [Read More](https://en.wikipedia.org/wiki/Security_bug)
+
