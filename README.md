@@ -411,3 +411,69 @@ Just like phishing, smishing uses cell phone text messages to lure consumers in.
 In many cases, the smishing message will come from a "5000" number instead of displaying an actual phone number. This usually indicates the text message was sent via email to the cell phone, and not sent from another cell phone.
 
 Do not respond to smishing messages.
+
+## Spamming  Doxing
+
+Internet privacy is a huge deal. One of the stated perks of the Internet is that you can remain anonymous behind your monitor as you browse, chat, and do whatever it is that you do. However, did you know that your real life identity can be compromised based on your Internet persona? It’s called “doxing” and it’ll sneak up on you without your knowledge.
+
+So, what is Doxing? Doxing can affect anyone. Nobody is outside the possibility of being doxed. How much of your real life information is on the Internet? Even the smallest slice of personal data can come back to bite you in the rear. Real name, phone number, email address – anything.
+
+Sound like fearmongering? In one sense, it is. You’ve probably never heard of someone who’s been doxed. But that doesn’t mean you’re immune. Let’s take a closer look at what doxing is, exactly, and then I’ll show you what you can do about it.
+
+![Doxing](https://static.makeuseof.com/wp-content/uploads/2012/10/what-is-doxing-1.jpg)
+
+**Doxing is a term that describes the process of obtaining or deducing information about a person based on a limited set of initial information. Or in layman’s terms, doxing is the act of searching around on the Internet for someone’s personal details. Another way to view doxing is to see it as taking a piece of information (e.g., email address) and identifying someone based on that.**
+
+The term “doxing” derives from “document tracing” which means to gather documents on a particular person or company to learn more about them. In the age of the Internet, doxing is more like social engineering – gathering information on someone using publicly available sources.
+
+**How Doxing Affects You**
+
+![DoxingEffect](https://static.makeuseof.com/wp-content/uploads/2012/10/what-is-doxing-2.jpg)
+
+Whether you know it or not, you’ve probably doxed someone at some point in your life. Remember that party a few years back and you met that really interesting person but you only caught their first name and their profession? Later that night, you went home, hopped on Google, and did a bit of searching to find out who they were.
+
+Okay, maybe it didn’t go exactly like that, but you know what I mean. Most of you have searched for people’s identities using publicly available information, like search results and Facebook profiles. And even if you did dox someone, your intentions were likely innocent.
+
+But if you were able to dox someone else, imagine how many people could be doxing you. Not everyone performs a dox with good intentions in mind.
+
+Recently, Reddit experienced some controversy surrounding a moderator who was doxed. This user was purported to be extremely careful with his usernames and his Internet identity, yet even then someone was able to identify him for who he was. How careful are you with your information?
+
+Consider your Facebook profile. It contains a lot of information on you: your name, birthday, location, friends and family relations, work history, photo albums, schooling information, religious and political affiliations, and more.
+
+And even if your Facebook privacy settings are maxxed out, you’re not as secure as you think. Even if someone got hold of just one thing about you, they could identify you through the Internet.
+
+## Protecting Yourself Against Doxing
+
+![anonymity](https://static.makeuseof.com/wp-content/uploads/2012/10/what-is-doxing-3.jpg)
+
+So what can you do to best protect yourself against doxing attempts? First, here are some of the most commonly targeted pieces of information that can be freely gleaned from the Internet and used to identify you:
+
+- **Full name**
+- **Gender, birthday, and age**
+- **Location**
+- **Email addresses**
+- **IP addresses**
+- **Usernames**
+- **Social networking profiles**
+- **Websites and blogs**
+
+Whenever possible, keep these information bits private and hidden. Sometimes you can’t, but whenever possible, do it. As for specific steps that you can take, here are some of the more effective ones:
+
+**Make All Internet Profiles Private**
+
+This means that you need to go on Google, Bing, Yahoo!, and whatever else search engine and type in your usernames, your full name, your email addresses, etc. Pretend as if you were doxing yourself. Find all the instances of your data online, then go and make those profiles private! If you can, delete them.
+
+**Maximize Social Network Privacy Settings**
+
+Tina once compiled a list of **5 must-know critical Facebook privacy tips**. Live by those tips. Set as much as you can to private. If there are social networking sites you no longer use, delete or disable those profiles. Organize your information and don’t post any sensitive information in your profile fields.
+
+**Create Multiple Usernames & Email Addresses**
+
+If you like to play video games, use a separate username for video game accounts. If you participate in forums, use a public username that you’ll only use for forums. When it comes to online banking, bill payments, loan statements, use a different username that is never public. Make it so that it’s really difficult for people to cross-reference you across multiple sites. Apply the same line of thought to email addresses.
+
+**Don’t Make Enemies**
+
+The people who are most likely to dox you in a malicious way are those who have something against you. Common sense, I know, but it’s easy to think that you can hide behind Internet anonymity and get away with being a jerk. Don’t be a jerk, don’t be a troll, don’t do or say anything you wouldn’t do or say in person. Basically, don’t give anyone a reason to dox you in the first place.
+
+**But at the end of the day, you must surrender to the fact that if you do anything on the Internet, you will always leave a trail. The goal is to leave as small and inconspicuous of a trail as you can so that the trail is difficult to follow back to you. Hopefully now you know how to reduce the likelihood of you being doxed!**
+
