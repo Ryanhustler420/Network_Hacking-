@@ -565,3 +565,14 @@ Conversely, stream algorithms are not held in the encryption system memory, but 
 [Read here](https://en.wikipedia.org/wiki/Symmetric-key_algorithm)
 
 [Types of Symnetric Algo](https://blog.storagecraft.com/5-common-encryption-algorithms/)
+
+
+## Asymmetric Encryption
+
+[Defination here](https://searchsecurity.techtarget.com/definition/asymmetric-cryptography)
+
+[Public-key cryptography](https://en.wikipedia.org/wiki/Public-key_cryptography) - wiki
+
+[What are differences](https://www.ssl2buy.com/wiki/symmetric-vs-asymmetric-encryption-what-are-differences)
+
+[Different Algo](https://cryptography.io/en/latest/hazmat/primitives/asymmetric/)
