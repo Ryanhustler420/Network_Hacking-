@@ -576,3 +576,7 @@ Conversely, stream algorithms are not held in the encryption system memory, but 
 [What are differences](https://www.ssl2buy.com/wiki/symmetric-vs-asymmetric-encryption-what-are-differences)
 
 [Different Algo](https://cryptography.io/en/latest/hazmat/primitives/asymmetric/)
+
+## Hashing
+
+[Read here](https://searchsqlserver.techtarget.com/definition/hashing)
