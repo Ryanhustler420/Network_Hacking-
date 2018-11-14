@@ -546,3 +546,22 @@ Moreover, the following tips can help improve your vigilance in relation to soci
 ## Darknets Dark Markets and Exploit kits
 
 - [Read here](https://en.wikipedia.org/wiki/Darknet_market)
+
+
+## Symmetric Encryption
+
+**Definition - What does Symmetric Encryption mean?**
+
+Symmetric encryption is a form of computerized cryptography using a singular encryption key to guise an electronic message. Its data conversion uses a mathematical algorithm along with a secret key, which results in the inability to make sense out of a message. Symmetric encrpytion is a two-way algorithm because the mathematical algorithm is reversed when decrypting the message along with using the same secret key.
+
+Symmetric encryption is also known as private-key encryption and secure-key encryption.
+
+**Techopedia explains Symmetric Encryption**
+
+The two types of symmetric encryptions are done using block and stream algorithms. Block algorithms are applied to blocks of electronic data. Specified set lengths of bits are transformed, while simultaneously using the selected secret key. This key is then applied to each block. However, when network stream data is being encrypted, the encryption system holds the data in its memory components waiting for the blocks in their entirety. The time in which the system waits can yield a definite security gap, and may compromise data protection. The solution involves a process where the block of data could be lessened and combined with previous encrypted data block contents until the rest of the blocks arrive. This is known as feedback. When the entire block is received, then it is encrypted.
+
+Conversely, stream algorithms are not held in the encryption system memory, but arrive in data stream algorithms. This type of algorithm is considered somewhat more secure, since a disk or system is not holding on to the data without encryption in the memory components.
+
+[Read here](https://en.wikipedia.org/wiki/Symmetric-key_algorithm)
+
+[Types of Symnetric Algo](https://blog.storagecraft.com/5-common-encryption-algorithms/)
