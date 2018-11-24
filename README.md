@@ -580,3 +580,18 @@ Conversely, stream algorithms are not held in the encryption system memory, but 
 ## Hashing
 
 [Read here](https://searchsqlserver.techtarget.com/definition/hashing)
+
+one tool for compairing hash name "quick hash"
+
+![image quick hash](https://windows-cdn.softpedia.com/screenshots/Quick-Hash_8.png)
+
+## Digital Signatures
+
+[Read here](https://searchsecurity.techtarget.com/definition/digital-signature)
+
+![Digital Sign Warning Windows Message](https://docs.microsoft.com/en-us/windows-hardware/drivers/install/images/tutorialwindowssecurityinstallwarning.png)
+
+this Message above show how windows privent us from installing those software which dosn't have digital Signatures
+
+you can check digital signatures in properties of the software setup file.
+
