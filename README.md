@@ -595,3 +595,12 @@ this Message above show how windows privent us from installing those software wh
 
 you can check digital signatures in properties of the software setup file.
 
+## Secure Sockets Layer SSL and Transport layer security TLS
+
+[Redirect to](https://www.globalsign.com/en/blog/ssl-vs-tls-difference/)
+
+best place for checking Cipher Suites are:-
+
+[here](https://wiki.mozilla.org/Security/Server_Side_TLS)
+
+[here](https://weakdh.org/sysadmin.html)
