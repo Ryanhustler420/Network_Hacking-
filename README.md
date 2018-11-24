@@ -604,3 +604,27 @@ best place for checking Cipher Suites are:-
 [here](https://wiki.mozilla.org/Security/Server_Side_TLS)
 
 [here](https://weakdh.org/sysadmin.html)
+
+## SSL Stripping
+
+[SSL Striping](https://comodosslstore.com/blog/what-is-ssl-stripping-beginners-guide-to-ssl-strip-attacks.html)
+
+some tools for applying such attack
+
+- pineapple wifi
+
+- [here](https://sectools.org/tool/sslstrip/)
+
+- [here](https://moxie.org/software/sslstrip/)
+
+- [here](http://www.oxid.it/cain.html)
+
+- [here for windows](https://www.tecmint.com/monitor-ethernet-activity-in-linux/)
+
+- [here](http://sniffdet.sourceforge.net/)
+
+
+
+
+
+
